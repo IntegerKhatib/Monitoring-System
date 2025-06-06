@@ -20,8 +20,8 @@ Current versions:
 
 ### Clone repo:
 ```
-git clone https://github.com/akmalovaa/zabbix-docker.git
-cd zabbix-docker
+git clone https://github.com/IntegerKhatib/Monitoring-System.git
+cd Monitoring System
 ```
 
 ### Check or change settings in the `.env` file
