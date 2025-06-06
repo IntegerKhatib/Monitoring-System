@@ -1,5 +1,5 @@
-# Zabbix NGINX PostgreSQL + Grafana
-## Example container (docker compose)
+# Monitoring System
+## Prometheus Grafana Zabbix
 
 - [Official Zabbix Dockerfiles](https://github.com/zabbix/zabbix-docker)
 - [Zabbix plugin for Grafana dashboard](https://github.com/grafana/grafana-zabbix)
